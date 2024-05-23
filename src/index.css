@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+section {
+  background-color: white;
+  flex: 1;
+  height: 150vw;
+  width: 100vw;
+}
